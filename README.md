@@ -15,6 +15,7 @@ Motivation:
 My motivation was to make an application that helps internet companies use the lastest technologies to be more competative.
 
 Success:
+I was able to put in code but not sure I had much success with this project.
 
 Contributors:
 I used the starter code from our class activities and changed the information to go with my application.
